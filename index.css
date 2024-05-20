@@ -1,0 +1,15 @@
+* {
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+.image1 {
+  width: 50vb;
+  height: 50vh;
+}
+
+.Main {
+  text-align: center;
+  justify-content: center;
+}
